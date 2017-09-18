@@ -121,6 +121,14 @@ To lint all `*.ts` files:
 $ npm run lint
 ```
 
+## Package
+
+To package the component:
+
+```bash
+$ npm run packagr
+```
+
 ## License
 
 MIT © [Akis Volanis](mailto:c.volanis@gmail.com)
