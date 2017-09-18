@@ -1,0 +1,1 @@
+{"version":3,"sources":["public_api.ts"],"names":[],"mappings":"AAAA,OAAC,EAAA,kBAAA,EAAA,MAAA,wDAAA,CAAA","file":"public_api.js","sourceRoot":"","sourcesContent":["export {SimpleNgTagsModule} from './src/app/modules/simple-ng-tags/simple-ng-tags.module';"]}

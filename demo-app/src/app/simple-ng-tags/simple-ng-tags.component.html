@@ -1,7 +1,0 @@
-<div class="tags-container" (click)="focusable.focus()">
-  <div class="tag" *ngFor="let tag of tags">
-    <button (click)="removeTag(tag);">&#10005;</button> {{tag}}
-  </div>
-
-  <input type="text" #focusable [placeholder]="placeholder" name="tag-input" [(ngModel)]="_tag" (keyup.enter) = "addTag($event)">
-</div>
