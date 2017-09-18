@@ -1,7 +1,22 @@
 {
   "name": "simple-ng-tags",
   "version": "0.1.7",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/charlatan154/simple-ng-tags"
+  },
+  "author": {
+    "name": "Akis Volanis",
+    "email": "c.volanis@gmail.com"
+  },
+  "keywords": [
+    "angular",
+    "tags"
+  ],
   "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/charlatan154/simple-ng-tags/issues"
+  },
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
